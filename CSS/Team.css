@@ -5,7 +5,7 @@ body,
 
     html {
 
-        background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("/Users/prash/Downloads/Graphex-Club-Web-master/Images/team.jpg") no-repeat center center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("Images/team.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
